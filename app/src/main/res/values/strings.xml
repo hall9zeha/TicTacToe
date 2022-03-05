@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="email">Email</string>
+    <string name="Password">Contraseña</string>
+    <string name="btnLogin">Iniciar sesión</string>
+    <string name="btnRegister">Registrarme</string>
+</resources>
