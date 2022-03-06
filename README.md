@@ -26,8 +26,11 @@ También deberá agregar su propio archivo ```google-services.json``` generado e
 
 ## Capturas de TicTacToe :framed_picture:
 
-<img src="https://github.com/hall9zeha/MasterFirebase/blob/main/Screenshots/Screenshot_20220303-130141~2.jpg" alt="drawing" width="300"/>|
-<img src="https://github.com/hall9zeha/MasterFirebase/blob/main/Screenshots/Screenshot_20220303-130149~2.jpg" alt="drawing" width="300"/>|
-<img src="https://github.com/hall9zeha/MasterFirebase/blob/main/Screenshots/Screenshot_20220303-130157~2.jpg" alt="drawing" width="300"/>|
-<img src="https://github.com/hall9zeha/MasterFirebase/blob/main/Screenshots/Screenshot_20220303-130222~2.jpg" alt="drawing" width="300"/>
-
+<img src="https://github.com/hall9zeha/TicTacToe/blob/main/Screenshots/Screenshot_20220305-115935.jpg" alt="drawing" width="300"/>|
+<img src="https://github.com/hall9zeha/TicTacToe/blob/main/Screenshots/Screenshot_20220305-120039.jpg" alt="drawing" width="300"/>|
+<img src="https://github.com/hall9zeha/TicTacToe/blob/main/Screenshots/Screenshot_20220305-120130.jpg" alt="drawing" width="300"/>|
+<img src="https://github.com/hall9zeha/TicTacToe/blob/main/Screenshots/Screenshot_20220305_121216.png" alt="drawing" width="300"/>|
+<img src="https://github.com/hall9zeha/TicTacToe/blob/main/Screenshots/Screenshot_20220305-121319.jpg" alt="drawing" width="300"/>|
+<img src="https://github.com/hall9zeha/TicTacToe/blob/main/Screenshots/Screenshot_20220305-121344.jpg" alt="drawing" width="300"/>|
+<img src="https://github.com/hall9zeha/TicTacToe/blob/main/Screenshots/Screenshot_20220305-121535.jpg" alt="drawing" width="300"/>|
+<img src="https://github.com/hall9zeha/TicTacToe/blob/main/Screenshots/Screenshot_20220305_121538.png" alt="drawing" width="300"/>|
